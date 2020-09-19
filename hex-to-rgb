@@ -1,0 +1,1 @@
+<?php list($r, $g, $b) = sscanf("7bde84", "%02x%02x%02x");echo $r . "," . $g . "," . $b;?>
